@@ -1,0 +1,3 @@
+C:/Users/asus/wbw_hw1-1/CMakeFiles/main.dir
+C:/Users/asus/wbw_hw1-1/CMakeFiles/edit_cache.dir
+C:/Users/asus/wbw_hw1-1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/asus/wbw_hw1-1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c C:\\Users\\asus\\wbw_hw1-1\\src\\algebra.c",
+  "file": "C:/Users/asus/wbw_hw1-1/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "C:/Users/asus/wbw_hw1-1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c C:\\Users\\asus\\wbw_hw1-1\\src\\main.c",
+  "file": "C:/Users/asus/wbw_hw1-1/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
